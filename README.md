@@ -1,2 +1,4 @@
 # C-Programs
-My C programming projects and practice
+This repository contains my C programming practice and mini-projects.
+## Topics covered :
+- Basics
