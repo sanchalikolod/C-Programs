@@ -4,3 +4,4 @@ This repository contains my C programming practice and mini-projects.
 - Basics
 - Number-Programs
 - Patterns
+- Arrays
