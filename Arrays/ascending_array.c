@@ -22,12 +22,14 @@ int main()
 	printf("\nThe array elements in ascending order are: ");
 	for(i=0;i<n;i++)
 	{
-		if(a[i]<a[j])
+		for(j=0;j<n;j++)
+			{if(a[i]<a[j])
 		{
 			temp=a[i];
 			a[i]=a[j];
 			a[j]=temp;
 		}
+			}
 	}
 	for(i=0;i<n;i++)
 	{
