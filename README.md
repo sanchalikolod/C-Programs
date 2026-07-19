@@ -5,3 +5,4 @@ This repository contains my C programming practice and mini-projects.
 - Number-Programs
 - Patterns
 - Arrays
+- 2D Arrays (Matrixes)
