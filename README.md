@@ -6,3 +6,4 @@ This repository contains my C programming practice and mini-projects.
 - Patterns
 - Arrays
 - 2D Arrays (Matrixes)
+- Strings
